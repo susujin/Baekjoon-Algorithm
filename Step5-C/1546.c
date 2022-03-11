@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-int main_bd()
+int main()
 {
 	int subject_num;
 	scanf("%d", &subject_num);

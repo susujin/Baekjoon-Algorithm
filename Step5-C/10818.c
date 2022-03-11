@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-int main_c()
+int main()
 {
 	int n;
 	scanf("%d", &n);
