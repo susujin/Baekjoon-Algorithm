@@ -1,7 +1,7 @@
 def self_num(n):
     slice_num=list(str(n)) #숫자를 쪼개서 리스트로 만듬
+    
     slice_sum=0
-
     for i in slice_num: #리스트의 숫자들 더하기
         slice_sum+=int(i)
     return n+slice_sum #원래 숫자와 리스트숫자들의 합을 더함.
