@@ -1,2 +1,2 @@
-x=int(input())
+x=input()
 print(ord(x))
