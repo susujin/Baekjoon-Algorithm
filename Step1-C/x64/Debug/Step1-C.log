@@ -1,0 +1,17 @@
+﻿  25083.c
+C:\Baekjoon-Algorithm\Step1-C\25083.c(7,9): warning C4129: '.': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Baekjoon-Algorithm\Step1-C\25083.c(8,9): warning C4129: '/': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+1001.obj : error LNK2005: main이(가) 1000.obj에 이미 정의되어 있습니다.
+1008.obj : error LNK2005: main이(가) 1000.obj에 이미 정의되어 있습니다.
+10172.obj : error LNK2005: main이(가) 1000.obj에 이미 정의되어 있습니다.
+10181.obj : error LNK2005: main이(가) 1000.obj에 이미 정의되어 있습니다.
+10430.obj : error LNK2005: main이(가) 1000.obj에 이미 정의되어 있습니다.
+10718.obj : error LNK2005: main이(가) 1000.obj에 이미 정의되어 있습니다.
+10869.obj : error LNK2005: main이(가) 1000.obj에 이미 정의되어 있습니다.
+10926.obj : error LNK2005: main이(가) 1000.obj에 이미 정의되어 있습니다.
+10998.obj : error LNK2005: main이(가) 1000.obj에 이미 정의되어 있습니다.
+18108.obj : error LNK2005: main이(가) 1000.obj에 이미 정의되어 있습니다.
+25083.obj : error LNK2005: main이(가) 1000.obj에 이미 정의되어 있습니다.
+2557.obj : error LNK2005: main이(가) 1000.obj에 이미 정의되어 있습니다.
+2588.obj : error LNK2005: main이(가) 1000.obj에 이미 정의되어 있습니다.
+C:\Baekjoon-Algorithm\Step1-C\x64\Debug\Step1-C.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
